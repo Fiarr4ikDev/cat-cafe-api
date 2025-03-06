@@ -1,6 +1,5 @@
 package ru.fiarr4ikdev.catcafeapi;
 
-import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
