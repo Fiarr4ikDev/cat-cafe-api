@@ -23,4 +23,5 @@ public class ModelMapperService {
     public CoffeeDTO convertToDto(Coffee coffee) {
         return modelMapper.map(coffee, CoffeeDTO.class);
     }
+
 }

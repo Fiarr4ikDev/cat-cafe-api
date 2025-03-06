@@ -20,4 +20,5 @@ public class Coffee {
     private String name;
     private String description;
     private int price;
+
 }
